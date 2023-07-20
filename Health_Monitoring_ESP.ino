@@ -1,4 +1,6 @@
 // ArduinoMqttClient - Version: Latest 
+//Setup your ESP module in Arduino cloud
+//Install Arduino Agent
 
 #include "thingProperties.h"
 
